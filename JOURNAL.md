@@ -39,3 +39,14 @@ And that's where my two and a half hours went.
 TT 2.5 HRS
 
 TTT 2.5 HRS
+
+## HC BRANDING!
+Spent around 1 hour adding this:
+
+<img width="1214" height="498" alt="image" src="https://github.com/user-attachments/assets/6dfa44ed-e142-438f-a5d2-8dc2fce8797c" />
+
+The bottom is still a wip :sob:
+
+TT: 1 hr
+
+TTT: 3.5 hrs
