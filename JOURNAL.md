@@ -41,7 +41,7 @@ TT 2.5 HRS
 TTT 2.5 HRS
 
 ## HC BRANDING!
-Spent around 1 hour adding this:
+Spent around 1 hour adding this: (no svg or whatever)
 
 <img width="1214" height="498" alt="image" src="https://github.com/user-attachments/assets/6dfa44ed-e142-438f-a5d2-8dc2fce8797c" />
 
