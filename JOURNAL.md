@@ -65,6 +65,8 @@ Okay quick fire round
 
 TT : 30 MIN
 
+TTT: 4 HRS
+
 ### sketched secondary bits 
 
 <img width="1506" height="463" alt="image" src="https://github.com/user-attachments/assets/0c6a92d4-a132-4f23-b001-6928c1e4f041" />
@@ -74,6 +76,8 @@ TT : 30 MIN
 <img width="1516" height="507" alt="image" src="https://github.com/user-attachments/assets/7660fc97-3279-4f3f-a393-9d2fd98b7836" />
 
 TT: 30 min
+
+TTT: 4.5 HRS
 
 ### Sketched tertiary bits
 
