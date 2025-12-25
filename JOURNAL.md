@@ -50,3 +50,52 @@ The bottom is still a wip :sob:
 TT: 1 hr
 
 TTT: 3.5 hrs
+
+## Sketch the letters!
+
+Okay quick fire round
+
+### sketched base bits
+
+<img width="1502" height="429" alt="image" src="https://github.com/user-attachments/assets/17d03bdc-1f90-457f-80f0-55db67121551" />
+
+### Extruded them 
+
+<img width="1562" height="457" alt="image" src="https://github.com/user-attachments/assets/f4c48f74-caa7-42e7-bd32-94668899cda4" />
+
+TT : 30 MIN
+
+### sketched secondary bits 
+
+<img width="1506" height="463" alt="image" src="https://github.com/user-attachments/assets/0c6a92d4-a132-4f23-b001-6928c1e4f041" />
+
+### Extruded those
+
+<img width="1516" height="507" alt="image" src="https://github.com/user-attachments/assets/7660fc97-3279-4f3f-a393-9d2fd98b7836" />
+
+TT: 30 min
+
+### Sketched tertiary bits
+
+<img width="1532" height="563" alt="image" src="https://github.com/user-attachments/assets/7a4b2ba3-e399-438d-914a-cee7436ed812" />
+
+### Extruded them
+
+<img width="1520" height="519" alt="image" src="https://github.com/user-attachments/assets/fa8c3dd8-0064-47e9-9ed5-99a0f6c7785d" />
+
+### Added bolts for both secondary level and tertiary level
+
+<img width="1527" height="507" alt="image" src="https://github.com/user-attachments/assets/91bff4e4-6959-41b2-8622-f3a338d139b1" />
+
+<img width="1526" height="522" alt="image" src="https://github.com/user-attachments/assets/a4ac1509-d427-4b6b-9103-9f5d2c2d51a8" />
+
+### Extruded them and got a final result
+
+<img width="1564" height="492" alt="image" src="https://github.com/user-attachments/assets/672d7cf8-82d4-4916-8f55-e82ae532c7bb" />
+
+TT: 30 MIN
+
+TTT: 5 HRS
+
+(Now gotta colour them then thats done!)
+
