@@ -103,3 +103,9 @@ TTT: 5 HRS
 
 (Now gotta colour them then thats done!)
 
+## Coloured in bits
+I coloured in all of the screws properly, and I coloured in the entirety of the top of the letters, all in all, it took me 30 mins.
+I'm now gonna spend an hour colouring every. single. face.
+
+<img width="1353" height="419" alt="image" src="https://github.com/user-attachments/assets/08a8c92d-11c1-4ffe-ab79-68b2b8088052" />
+
