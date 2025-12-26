@@ -18,11 +18,11 @@ Before I had made this:
 
 <img width="1173" height="343" alt="Screenshot 2025-12-24 194736" src="https://github.com/user-attachments/assets/46f48110-4052-4897-822e-829108f47fb6" />
 
-Then like this:
+Then this:
 
 <img width="1467" height="394" alt="Screenshot 2025-12-24 201323" src="https://github.com/user-attachments/assets/c7d4205b-7a91-4109-9cb3-0746d54fa2bf" />
 
-Then like this:
+Then this:
 
 <img width="1327" height="318" alt="Screenshot 2025-12-24 202611" src="https://github.com/user-attachments/assets/620fde05-69ab-4be1-a667-3fc8eb170627" />
 
