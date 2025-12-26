@@ -109,3 +109,16 @@ I'm now gonna spend an hour colouring every. single. face.
 
 <img width="1353" height="419" alt="image" src="https://github.com/user-attachments/assets/08a8c92d-11c1-4ffe-ab79-68b2b8088052" />
 
+TT: 0.25 hrs
+
+TTT: 5.25 hrs
+
+## Finished colouring!
+This is finally done! I think I coloured in like 300 faces
+
+<img width="1146" height="564" alt="image" src="https://github.com/user-attachments/assets/54da8818-c477-492a-a9a0-a2de512f5758" />
+
+TT : 0.75h
+
+TTT: 6h
+
