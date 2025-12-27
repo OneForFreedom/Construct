@@ -124,4 +124,4 @@ TT : 0.75h
 
 TTT: 6h
 
-I'm now gonna make the hammer as shown on the https://www.construct.hackclub.com favicon!
+I'm now gonna make the hammer as shown on the https://construct.hackclub.com favicon!
