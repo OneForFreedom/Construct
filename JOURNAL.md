@@ -141,3 +141,12 @@ Now I'm just gonna fillet and colour
 TT: 0.5 hrs
 
 TTT : 6.5 hrs
+
+## HANDLE!
+I filleted a handle! Also added some cool text! I coloured in the handle a nice oak wood, but it's a bit too dark for my liking, I'll be sure to colour it in!
+
+<img width="969" height="478" alt="image" src="https://github.com/user-attachments/assets/93b31a09-c442-4ea3-9303-e6316475a672" />
+
+TT: 0.25hrs
+
+TT : 6.75 hrs
