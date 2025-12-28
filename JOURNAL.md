@@ -129,3 +129,15 @@ I GOT A HACK CLUBBER TO PRINT IT!!!
 ![20251227_105659](https://github.com/user-attachments/assets/81761d4d-0ee8-40ee-b08e-a816c8c9f9e9)
 
 Huge thanks to @Marcus for printing it!
+
+## Hammer?
+
+Spent 30 mins sketching out a hammer, that included making one screw, sadly designs are on one side to make it printable, but it should be nice none the less! (I also extruded!)
+
+Now I'm just gonna fillet and colour
+
+<img width="832" height="557" alt="image" src="https://github.com/user-attachments/assets/ce5b0611-b11e-4eda-a9f1-3afa0046abad" />
+
+TT: 0.5 hrs
+
+TTT : 6.5 hrs
