@@ -124,4 +124,8 @@ TT : 0.75h
 
 TTT: 6h
 
-I'm now gonna make the hammer as shown on the https://construct.hackclub.com favicon!
+I GOT A HACK CLUBBER TO PRINT IT!!!
+
+![20251227_105659](https://github.com/user-attachments/assets/81761d4d-0ee8-40ee-b08e-a816c8c9f9e9)
+
+Huge thanks to @Marcus for printing it!
