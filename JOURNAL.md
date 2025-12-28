@@ -150,3 +150,14 @@ I filleted a handle! Also added some cool text! I coloured in the handle a nice 
 TT: 0.25hrs
 
 TT : 6.75 hrs
+
+## Head!
+I filleted the head! When I filleted it there was something weird going on visually, so I fixed that, and pretty much just got that over with, now I'm gonna make that crow-bar type thing and a keyhole, since, this is ofcourse, a keychain.
+
+<img width="919" height="700" alt="image" src="https://github.com/user-attachments/assets/cc172cfb-8b73-46f1-a89f-7ac690804566" />
+
+<img width="389" height="311" alt="image" src="https://github.com/user-attachments/assets/4aa2e814-391f-462c-9519-912333f42484" />
+
+TT: 0.5 HRS
+
+TTT : 7.25 HRS
