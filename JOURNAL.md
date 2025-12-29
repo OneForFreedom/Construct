@@ -161,3 +161,14 @@ I filleted the head! When I filleted it there was something weird going on visua
 TT: 0.5 HRS
 
 TTT : 7.25 HRS
+
+## And thats game!
+I'm done with the hammer keychain, it turned out better then I had expected, I had a few iterations of the keyhole before ending up with the simplist of all.
+
+Took me 15 mins to make that!
+
+<img width="1199" height="759" alt="image" src="https://github.com/user-attachments/assets/3ace6f62-634b-405b-a11c-887e2df205c4" />
+
+TT : 0.25 HRS 
+
+TTT : 7.5 HRS
