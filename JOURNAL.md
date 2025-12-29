@@ -169,7 +169,7 @@ Took me 15 mins to make that!
 
 <img width="1199" height="759" alt="image" src="https://github.com/user-attachments/assets/3ace6f62-634b-405b-a11c-887e2df205c4" />
 
-![Uploading image.png…]()
+<img width="861" height="462" alt="image" src="https://github.com/user-attachments/assets/68169bfb-1b6b-48db-887f-21707be3c0f8" />
 
 TT : 0.25 HRS 
 
