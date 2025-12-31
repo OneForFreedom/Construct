@@ -181,3 +181,11 @@ I added a small battery pack thingy so now you can connect both things together
 
 <img width="1157" height="710" alt="image" src="https://github.com/user-attachments/assets/8b7d600b-8b62-4c9e-9c6d-578536b3e122" />
 
+I added that handle thingy and made the top bit
+
+<img width="756" height="668" alt="image" src="https://github.com/user-attachments/assets/dba062cc-56b7-4872-a220-cc2c23b71914" />
+
+TT 1 H 
+
+TTT 8.5 HRS
+
