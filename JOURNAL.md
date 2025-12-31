@@ -202,5 +202,14 @@ TTT : 9 Hrs
 I finished the model of the drill, it's 100% printable if you just lay it flat on its back. I'm just gonna colour it in rn.
 
 
+<img width="839" height="687" alt="Screenshot 2025-12-31 220620" src="https://github.com/user-attachments/assets/cb5eb85d-24a7-484b-adce-387b468f3238" />
+
+<img width="597" height="589" alt="Screenshot 2025-12-31 214916" src="https://github.com/user-attachments/assets/0fc82e3d-8459-49cf-9879-aa27fe7bd0a2" />
+
+## Finished!
+It's finally done! Siege is done! I'm finally FREE!!
+
+<img width="830" height="754" alt="image" src="https://github.com/user-attachments/assets/63c316c6-ce75-497e-9754-218aad9acf83" />
+
 
 
