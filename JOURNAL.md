@@ -197,3 +197,10 @@ I made the handle! I added a cool design to the trigger I also filleted everythi
 TT: 0.5 hrs
 
 TTT : 9 Hrs
+
+## Finished? 
+I finished the model of the drill, it's 100% printable if you just lay it flat on its back. I'm just gonna colour it in rn.
+
+
+
+
