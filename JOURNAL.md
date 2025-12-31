@@ -176,3 +176,8 @@ TT : 0.25 HRS
 TTT : 7.5 HRS
 
 ## I'm now gonna make a drill, cuz why not? This won't be a keychain.
+
+I added a small battery pack thingy so now you can connect both things together
+
+<img width="1157" height="710" alt="image" src="https://github.com/user-attachments/assets/8b7d600b-8b62-4c9e-9c6d-578536b3e122" />
+
