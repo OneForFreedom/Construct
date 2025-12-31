@@ -189,3 +189,6 @@ TT 1 H
 
 TTT 8.5 HRS
 
+## Made the handle! :D
+I made the handle! I added a cool design to the trigger I also filleted everything in handlewise!
+
