@@ -192,3 +192,8 @@ TTT 8.5 HRS
 ## Made the handle! :D
 I made the handle! I added a cool design to the trigger I also filleted everything in handlewise!
 
+<img width="694" height="557" alt="image" src="https://github.com/user-attachments/assets/5b04b869-794b-4c38-b278-782d833e2f7a" />
+
+TT: 0.5 hrs
+
+TTT : 9 Hrs
